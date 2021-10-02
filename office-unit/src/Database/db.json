@@ -1,0 +1,65 @@
+{
+  "employees": [
+    {
+      "name": "Siyathemba",
+      "surname": "Ndlovu",
+      "email": "siyathemba@specno.com",
+      "id": 1,
+      "address": "26 West Street, Durban"
+    },
+    {
+      "name": "Peter",
+      "surname": "Korman",
+      "email": "peter@specno.com",
+      "address": "65 Sef street, CapeTown",
+      "id": 3
+    },
+    {
+      "name": "Sharon",
+      "surname": "Francos",
+      "email": "sherryn@specno.com",
+      "address": "65 kary st, Cape Town",
+      "id": 4
+    },
+    {
+      "name": "Siyanda",
+      "surname": "Khanyile",
+      "email": "siyanda@gmail.com",
+      "address": "South Point",
+      "id": 5
+    },
+    {
+      "name": "Josh",
+      "surname": "Mandel",
+      "email": "mandel@specno.com",
+      "address": "5 cato street, Cape Town",
+      "id": 6
+    }
+  ],
+  "Offices": [
+    {
+      "officename": "Specno",
+      "officetell": "0319077592",
+      "email": "info@specno.com",
+      "address": "26 West Street, Durban",
+      "id": 11,
+      "capacity": 25
+    },
+    {
+      "officename": "IBM",
+      "officetell": "0319077593",
+      "email": "info@ibm.com",
+      "address": "26 West Street, Gauteng",
+      "id": 12,
+      "capacity": 30
+    },
+    {
+      "officename": "Amazon",
+      "officetell": "0319071907",
+      "email": "info@amazon.com",
+      "address": "26 Park Street, Cape Tpwn",
+      "id": 13,
+      "capacity": 35
+    }
+  ]
+}
